@@ -6,8 +6,8 @@
 
 OLED_CLASS_OBJ display(OLED_ADDRESS, OLED_SDA, OLED_SCL);
 
-#define WIFI_SSID       "BeBoX_Home"
-#define WIFI_PASSWORD   "8201000501"
+#define WIFI_SSID       "*********"
+#define WIFI_PASSWORD   "*********"
 
 void setup()
 {
